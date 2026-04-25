@@ -1,0 +1,8 @@
+venv/
+*.dylib
+*.so
+__pycache__/
+*.pyc
+.DS_Store
+*.csv
+sign_mnist_train/
